@@ -1,0 +1,9 @@
+{
+  "name": "asdfasdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
