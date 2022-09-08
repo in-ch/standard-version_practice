@@ -4,9 +4,17 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "log": "yarn standard-version"
+    "postinstall": "husky install",
+    "release": "yarn standard-version",
+    "pre-commit": "lint-staged"
   },
+  "private": true,
   "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "commitlint": "^17.1.2",
+    "commitlint-config-gitmoji": "^2.2.5",
+    "husky": "^8.0.1",
     "standard-version": "^9.3.2"
   }
 }
