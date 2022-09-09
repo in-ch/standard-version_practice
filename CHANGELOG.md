@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [1.2.3](https://github.com/in-ch/standard-version_practice/compare/v1.2.2...v1.2.3) (2022-09-09)
 
-
 ### Docs
 
-* asdf ([7fa23d8](https://github.com/in-ch/standard-version_practice/commit/7fa23d86d830020ab3c5982cfe6502409a84af2e))
+- asdf ([7fa23d8](https://github.com/in-ch/standard-version_practice/commit/7fa23d86d830020ab3c5982cfe6502409a84af2e))
 
 ### [1.2.2](https://github.com/in-ch/standard-version_practice/compare/v1.2.1...v1.2.2) (2022-09-09)
 
