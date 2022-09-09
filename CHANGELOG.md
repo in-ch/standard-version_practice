@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/in-ch/standard-version_practice/compare/v1.2.3...v1.2.4) (2022-09-09)
+
+
+### CI
+
+* **commitlintrc:** commit lint 변경 ([2f3ac72](https://github.com/in-ch/standard-version_practice/commit/2f3ac72c178571d8e1d4381abfb4a448bb97317f))
+
 ### [1.2.3](https://github.com/in-ch/standard-version_practice/compare/v1.2.2...v1.2.3) (2022-09-09)
 
 ### Docs
