@@ -8,8 +8,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## 1.2.0 (2022-09-09)
 
-asdfasdf
-
 ### Features
 
 - standard-version 스크립트 추가 ([fd29200](https://github.com/in-ch/standard-version_practice/commit/fd2920033ef9f14d8e9c44ceafccae41f5aafd64))
