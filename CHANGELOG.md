@@ -1,5 +1,19 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.2.1](https://github.com/in-ch/standard-version_practice/compare/v1.2.0...v1.2.1) (2022-09-21)
+
+
+### Code Refactoring
+
+* **:rewind::** a.html 삭제 ([e6d6161](https://github.com/in-ch/standard-version_practice/commit/e6d61613879faafa2aa835365a76aea410b78d32))
+
+
+### Others
+
+* **asdfasdf:** changelog 수정 ([482fce8](https://github.com/in-ch/standard-version_practice/commit/482fce859f639655b47b60add0423760311f3771))
+
 ## 1.2.0 (2022-09-21)
 
 ### Features
