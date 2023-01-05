@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/in-ch/standard-version_practice/compare/v1.2.5...v1.3.0) (2023-01-05)
+
+
+### Features
+
+* **index.js:** index.js 파일 추가 ([ef8c5b8](https://github.com/in-ch/standard-version_practice/commit/ef8c5b8c62f300cbf04d18a76982e29c40f4aa5c))
+
+
+### Others
+
+* 필요 package 설치 ([9af48f0](https://github.com/in-ch/standard-version_practice/commit/9af48f0d9d77be778dea9d309839ea4afe846ea0))
+
 ### [1.2.1](https://github.com/in-ch/standard-version_practice/compare/v1.2.0...v1.2.1) (2022-09-21)
 
 
